@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ -z $SYSLOG_USERNAME ];then
     export SYSLOG_USERNAME=admin
